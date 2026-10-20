@@ -1,5 +1,5 @@
 {
-  "name": "one-theme-port",
+  "name": "one-theme-zed",
   "displayName": "One Theme Zed",
   "description": "One Dark and One Light color themes for VS Code, ported from the default themes of the Zed editor.",
   "version": "0.1.1",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hmars-t/one-theme-port.git"
+    "url": "https://github.com/hmars-t/one-theme-zed.git"
   },
   "bugs": {
-    "url": "https://github.com/hmars-t/one-theme-port/issues"
+    "url": "https://github.com/hmars-t/one-theme-zed/issues"
   },
   "contributes": {
     "themes": [

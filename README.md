@@ -18,7 +18,7 @@ Search for **One Theme Zed** in the Extensions view (`Ctrl+Shift+X`).
 ### From a `.vsix` file
 
 ```sh
-code --install-extension one-theme-port-0.1.1.vsix
+code --install-extension one-theme-zed-0.1.1.vsix
 ```
 
 Or use **Extensions: Install from VSIX...** from the Command Palette.
@@ -34,7 +34,7 @@ npm install -g @vscode/vsce
 vsce package
 ```
 
-This produces `one-theme-port-<version>.vsix`.
+This produces `one-theme-zed-<version>.vsix`.
 
 ## Publishing (maintainers)
 
