@@ -18,7 +18,7 @@ Search for **One Theme Port** in the Extensions view (`Ctrl+Shift+X`).
 ### From a `.vsix` file
 
 ```sh
-code --install-extension one-theme-port-0.1.0.vsix
+code --install-extension one-theme-port-0.1.1.vsix
 ```
 
 Or use **Extensions: Install from VSIX...** from the Command Palette.
