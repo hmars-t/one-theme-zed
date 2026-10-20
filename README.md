@@ -38,7 +38,7 @@ This produces `one-theme-port-<version>.vsix`.
 
 ## Publishing (maintainers)
 
-Before publishing, replace `your-publisher-id` in `package.json` with your real publisher ID.
+The publisher ID in `package.json` is `hmarst`. Change it if you publish under a different publisher.
 
 ```sh
 # Visual Studio Marketplace
