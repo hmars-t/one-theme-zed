@@ -4,8 +4,8 @@ One Dark and One Light color themes for Visual Studio Code, ported from the defa
 
 If you like the look of Zed's default themes and want the same palette in VS Code, this extension provides:
 
-- **One Dark Port**
-- **One Light Port**
+- **One Dark**
+- **One Light**
 
 Both themes cover the editor, workbench (sidebar, tabs, status bar, panels, menus, inputs), terminal ANSI colors, Git decorations, diff and merge colors, and syntax highlighting (TextMate scopes plus semantic tokens).
 
@@ -25,7 +25,7 @@ Or use **Extensions: Install from VSIX...** from the Command Palette.
 
 ### Activate
 
-Press `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) and choose **One Dark Port** or **One Light Port**.
+Press `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) and choose **One Dark** or **One Light**.
 
 ## Build from source
 

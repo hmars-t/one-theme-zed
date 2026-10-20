@@ -7,4 +7,4 @@
 
 ## 0.1.0
 
-- Initial release with **One Dark Port** and **One Light Port**, ported from the default Zed themes.
+- Initial release with **One Dark** and **One Light**, ported from the default Zed themes.

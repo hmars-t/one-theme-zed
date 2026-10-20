@@ -34,14 +34,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Port",
+        "label": "One Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/one-dark-port-color-theme.json"
+        "path": "./themes/one-dark-color-theme.json"
       },
       {
-        "label": "One Light Port",
+        "label": "One Light",
         "uiTheme": "vs",
-        "path": "./themes/one-light-port-color-theme.json"
+        "path": "./themes/one-light-color-theme.json"
       }
     ]
   }
