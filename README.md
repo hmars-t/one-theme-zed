@@ -1,4 +1,4 @@
-# One Theme Port (Dark & Light)
+# One Theme Zed
 
 One Dark and One Light color themes for Visual Studio Code, ported from the default themes of the [Zed editor](https://zed.dev).
 
@@ -13,7 +13,7 @@ Both themes cover the editor, workbench (sidebar, tabs, status bar, panels, menu
 
 ### From the Marketplace
 
-Search for **One Theme Port** in the Extensions view (`Ctrl+Shift+X`).
+Search for **One Theme Zed** in the Extensions view (`Ctrl+Shift+X`).
 
 ### From a `.vsix` file
 
