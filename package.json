@@ -1,0 +1,48 @@
+{
+  "name": "one-theme-port",
+  "displayName": "One Theme Port (Dark & Light)",
+  "description": "One Dark and One Light color themes for VS Code, ported from the default themes of the Zed editor.",
+  "version": "0.1.0",
+  "publisher": "your-publisher-id",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "one dark",
+    "one light",
+    "color-theme",
+    "atom",
+    "zed"
+  ],
+  "galleryBanner": {
+    "color": "#282c33",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmars-t/one-theme-port.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hmars-t/one-theme-port/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Port",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-port-color-theme.json"
+      },
+      {
+        "label": "One Light Port",
+        "uiTheme": "vs",
+        "path": "./themes/one-light-port-color-theme.json"
+      }
+    ]
+  }
+}
